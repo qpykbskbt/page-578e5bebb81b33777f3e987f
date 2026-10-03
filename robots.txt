@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0299c0df01.jsfs360.cn/sitemap.xml
